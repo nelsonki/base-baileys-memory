@@ -1,0 +1,190 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABDC322210D708B104A',
+    participant: undefined
+  },
+  messageTimestamp: 1683204838,
+  pushName: '@Otonieell',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3AADDC3A15062361C69E',
+    participant: undefined
+  },
+  messageTimestamp: 1683204844,
+  pushName: '@Otonieell',
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD416D5D3FD002FF157',
+    participant: undefined
+  },
+  messageTimestamp: 1683205726,
+  pushName: '@Otonieell',
+  message: Message {
+    conversation: 'Claro eso llevaría a en la es de productos destacados o tal no?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Claro eso llevaría a en la es de productos destacados o tal no?',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3A18AC5B8F44E1F8D44C',
+    participant: undefined
+  },
+  messageTimestamp: 1683205742,
+  pushName: '@Otonieell',
+  message: Message {
+    conversation: 'Y si preguntaran por ficha de técnica de un producto por ejemplo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y si preguntaran por ficha de técnica de un producto por ejemplo?',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3A63AD1D7262B09A04AD',
+    participant: undefined
+  },
+  messageTimestamp: 1683205913,
+  pushName: '@Otonieell',
+  message: Message {
+    conversation: 'Fino',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Fino',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8F5EA8EEFC77C171F9',
+    participant: undefined
+  },
+  messageTimestamp: 1683205932,
+  pushName: '@Otonieell',
+  message: Message {
+    conversation: 'Te paso uno 35$ ahora',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te paso uno 35$ ahora',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3DFA1E04A1179865CD',
+    participant: undefined
+  },
+  messageTimestamp: 1683205942,
+  pushName: '@Otonieell',
+  message: Message {
+    conversation: 'FRANZ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'FRANZ?',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '5EC5779E75979F04B362',
+    participant: undefined
+  },
+  messageTimestamp: 1683206130,
+  pushName: '@Otonieell',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/12153481_806972020985471_8299111941845405201_n.enc?ccb=11-4&oh=01_AdTvtN30A_QgbnZpCbFEF_hNHet3tKvbAoAP96EwJZ_T3g&oe=647B1F41&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1024,
+      width: 576,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/12153481_806972020985471_8299111941845405201_n.enc?ccb=11-4&oh=01_AdTvtN30A_QgbnZpCbFEF_hNHet3tKvbAoAP96EwJZ_T3g&oe=647B1F41',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__ea82f614-3022-4aeb-9b32-9bfa60295c0e',
+  from: '34631036027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34631036027@s.whatsapp.net',
+    fromMe: false,
+    id: '3A130747FC217B928C64',
+    participant: undefined
+  },
+  messageTimestamp: 1683206155,
+  pushName: '@Otonieell',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ok, déjame activar la cuenta negocio y te digo',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok, déjame activar la cuenta negocio y te digo',
+  from: '34631036027'
+}
